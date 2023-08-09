@@ -1,10 +1,14 @@
 ![10Ekran Alıntısı](https://github.com/furkancanisci/e-learning-laravel/assets/99483050/cea0ed04-bf9c-4d70-9009-39fefceff401)
+![9Ekran Alıntısı](https://github.com/furkancanisci/e-learning-laravel/assets/99483050/4af16e7e-9531-4c1e-abec-5db95fe8d2f5)
+![13Ekran Alıntısı](https://github.com/furkancanisci/e-learning-laravel/assets/99483050/5b5cb6b8-5136-4e40-9517-9ee1f905dbab)
+![20Ekran Alıntısı](https://github.com/furkancanisci/e-learning-laravel/assets/99483050/83b3ba5f-3f50-4537-8d6e-57002906b3b9)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" ![9Ekran Alıntısı](https://github.com/furkancanisci/e-learning-laravel/assets/99483050/651c2b4f-6630-486e-88ad-5e23431c5de3)
 alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.i![13Ekran Alıntısı](https://github.com/furkancanisci/e-learning-laravel/assets/99483050/516e45d7-c556-43cc-9d7d-d33ba6b9a6da)
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.i
 o/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
@@ -20,11 +24,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Real-time event broadcasting](![9Ekran Alıntısı](https://github.com/furkancanisci/e-learning-laravel/assets/99483050/eebc352c-37a1-48d1-a73b-26f145b148db)
+https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust application![Uploading 20Ekran Alıntısı.PNG…]()
-![Uploading 13Ekran Alıntısı.PNG…]()
-s.
+Laravel is accessible, powerful, and provides tools required for large, robust application
+
 
 ## Learning Laravel
 
